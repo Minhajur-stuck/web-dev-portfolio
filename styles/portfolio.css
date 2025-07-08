@@ -131,3 +131,20 @@ main section{
   border: none;
   border-radius: 10px;
 }
+
+/*resume section styles*/
+.resume-container{
+  display: flex;
+  gap: 24px;
+}
+.experience-sub-title{
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+.experience-description, .experience-sub-title{
+  color: #757575;
+}
+.resume-download-cv{
+  margin-top: 50px;
+}
